@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @allaaMuhammed07
 - 👀 I’m interested in reading, yoga, cooking and music
-- 🌱 I’m currently learning Javascript and willing to learn cypress
+- 🌱 I’m a QA Engineer who loves to code 🤓
 - 📫 How to reach me, you can email me on allaamuhammed.7@gmail.com
 
 <!---
